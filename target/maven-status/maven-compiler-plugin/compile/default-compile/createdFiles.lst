@@ -1,0 +1,5 @@
+org/example/service/TutorialService.class
+org/example/repository/TutorialRepository.class
+org/example/controller/TutorialController.class
+org/example/model/Tutorial.class
+org/example/SpringBootR2dbcPostgresqlExampleApplication.class
